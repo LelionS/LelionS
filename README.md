@@ -1,4 +1,12 @@
-<h1 align="center">Hi 👋, I'm Lelion Solonka</h1>
+<h1 style="
+        display: inline-block;
+        overflow: hidden;
+        white-space: nowrap;
+        border-right: 3px solid black;
+        animation: typing 4s steps(40, end) 1s 1 normal both, blink-caret .75s step-end infinite;
+        font-size: 24px;
+        text-align: center;
+    ">Hi 👋, I'm Lelion Solonka</h1>
 <h3 align="center">💼 IT Personnel | 🌍 Kenya-based Technologist | 🚀 Tech Enthusiast | 🌐 Networking Specialist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lelions&label=Profile%20views&color=0e75b6&style=flat" alt="lelions" /> </p>

@@ -1,4 +1,13 @@
-<h1 style="
+<style>
+    @keyframes typing {
+        from { width: 0; }
+        to { width: 100%; }
+    }
+    @keyframes blink-caret {
+        from, to { border-color: transparent; }
+        50% { border-color: black; }
+    }
+    .typing-effect {
         display: inline-block;
         overflow: hidden;
         white-space: nowrap;
@@ -6,7 +15,13 @@
         animation: typing 4s steps(40, end) 1s 1 normal both, blink-caret .75s step-end infinite;
         font-size: 24px;
         text-align: center;
-    ">Hi 👋, I'm Lelion Solonka</h1>
+    }
+</style>
+
+<h1>
+    Hi 👋, I'm <span class="typing-effect">Lelion Solonka</span>
+</h1>
+
 <h3 align="center">💼 IT Personnel | 🌍 Kenya-based Technologist | 🚀 Tech Enthusiast | 🌐 Networking Specialist</h3>
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3M2ZmxoY3JsNW15Ym0zc2dqY2s0emhnb3ZvaGxkZ3o1OGtlaW96MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vZu2VmycJ890tP5IdH/giphy.gif" width="450px" align="right" alt+"">
 

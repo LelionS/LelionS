@@ -1,22 +1,4 @@
-<style>
-    @keyframes typing {
-        from { width: 0; }
-        to { width: 100%; }
-    }
-    @keyframes blink-caret {
-        from, to { border-color: transparent; }
-        50% { border-color: black; }
-    }
-    .typing-effect {
-        display: inline-block;
-        overflow: hidden;
-        white-space: nowrap;
-        border-right: 3px solid black;
-        animation: typing 4s steps(40, end) 1s 1 normal both, blink-caret .75s step-end infinite;
-        font-size: 24px;
-        text-align: center;
-    }
-</style>
+
 
 <h1>
     Hi 👋, I'm <span class="typing-effect">Lelion Solonka</span>

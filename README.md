@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/leli_n5" target="blank"><img src="https://img.shields.io/twitter/follow/leli_n5?logo=twitter&style=for-the-badge" alt="leli_n5" /></a> </p>
 
-- 🔭 I’m currently working on [ISP Website](https://github.com/LelionS/ISP-mnonitoring_page)
+- 🔭 I’m currently working on [Ticketing Website](https://github.com/LelionS/ISP-mnonitoring_page)
 
 - 🌱 I’m currently learning **react, angular, tailwind, mobile app development, cybersecurity**
 
